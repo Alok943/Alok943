@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alok943
-- 👀 I’m interested in Web Development and AI.
-- 🌱 I’m currently learning Web Deevelopment
+- 👀 I’m interested in AI and ML.
+- 🌱 I’m currently going through Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aloksingh98541@gmail.com
 - 😄 Pronouns: ...
