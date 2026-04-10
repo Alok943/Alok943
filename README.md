@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Alok943
-- 👀 I’m interested in AI and ML.
-- 🌱 I’m currently going through Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aloksingh98541@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Alok Singh
 
-<!---
-Alok943/Alok943 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+B.Tech AI & ML · Amity University · Building in public
+
+---
+
+## Projects
+
+**[DragonEye-Auditor](https://github.com/Alok943/DragonEye-Auditor)** — Hinglish toxicity classifier built as a reinforcement learning environment for the Meta × Scaler OpenEnv Hackathon. Classifies e-commerce reviews (SAFE / TOXIC / SPAM) with English and Hinglish support across 3 graded tasks. Deployed on HuggingFace Spaces. `FastAPI` `Gemini` `OpenEnv` `Docker`
+
+**[Cinematch V2](https://github.com/Alok943/cinematch_v2)** — Hybrid movie recommender that separates search intent from discovery. Two-stage retrieval: exact title matching + semantic recommendations via sentence embeddings. `ChromaDB` `Sentence Transformers` `Streamlit` `TMDB API`
+
+---
+
+## Stack
+
+`Python` `FastAPI` `Streamlit` `ChromaDB` `Sentence Transformers` `XGBoost` `Scikit-learn` `Docker` `HuggingFace` `Gemini API`
+
+---
+
+## Currently
+
+- 3rd year BTech AI & ML
+- Focusing on LLMs, NLP, and applied AI
+- Open to internship opportunities in AI/ML
+
+---
+
+aloksingh98541@gmail.com · [LinkedIn](https://linkedin.com/in/alok943) · [HuggingFace](https://huggingface.co/Alok8732)
