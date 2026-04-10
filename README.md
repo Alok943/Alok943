@@ -26,4 +26,4 @@ B.Tech AI & ML · Amity University · Building in public
 
 ---
 
-aloksingh98541@gmail.com · [LinkedIn](https://linkedin.com/in/alok943) · [HuggingFace](https://huggingface.co/Alok8732)
+aloksingh98541@gmail.com · [LinkedIn]([https://linkedin.com/in/alok943](https://www.linkedin.com/in/alok-singh-61102222a/)) · [HuggingFace](https://huggingface.co/Alok8732)
