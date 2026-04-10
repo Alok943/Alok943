@@ -76,4 +76,4 @@ Most recommenders conflate title search with semantic discovery — Cinematch so
 
 ---
 
-aloksingh98541@gmail.com · [LinkedIn]([https://linkedin.com/in/alok943](https://www.linkedin.com/in/alok-singh-61102222a/)) · [HuggingFace](https://huggingface.co/Alok8732)
+aloksingh98541@gmail.com · [LinkedIn](https://www.linkedin.com/in/alok-singh-61102222a) · [HuggingFace](https://huggingface.co/Alok8732)
